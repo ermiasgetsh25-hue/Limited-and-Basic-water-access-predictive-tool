@@ -278,7 +278,7 @@ model, CATBOOST_THRESHOLD = load_model()
 # ============================================================
 # 4. PAGE CONTENT
 # ============================================================
-st.title("💧 Machine Learning-Based Prediction of Limited Access to Drinking Water Services Among Households in East Africa")
+st.title("💧 Machine learning-based prediction of limited access to drinking water services among households using improved water source in East Africa: evidence from recent DHS data")
 st.markdown("### CatBoost Model — East Africa Regional Prediction Tool")
 st.markdown("---")
 
